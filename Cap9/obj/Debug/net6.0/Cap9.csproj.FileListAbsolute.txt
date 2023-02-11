@@ -1,0 +1,15 @@
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap8_Cap9\Cap9\obj\Debug\net6.0\Cap9.csproj.AssemblyReference.cache
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap8_Cap9\Cap9\obj\Debug\net6.0\Cap9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap8_Cap9\Cap9\obj\Debug\net6.0\Cap9.AssemblyInfoInputs.cache
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap8_Cap9\Cap9\obj\Debug\net6.0\Cap9.AssemblyInfo.cs
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap8_Cap9\Cap9\obj\Debug\net6.0\Cap9.csproj.CoreCompileInputs.cache
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap8_Cap9\Cap9\bin\Debug\net6.0\Cap9.exe
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap8_Cap9\Cap9\bin\Debug\net6.0\Cap9.deps.json
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap8_Cap9\Cap9\bin\Debug\net6.0\Cap9.runtimeconfig.json
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap8_Cap9\Cap9\bin\Debug\net6.0\Cap9.dll
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap8_Cap9\Cap9\bin\Debug\net6.0\Cap9.pdb
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap8_Cap9\Cap9\obj\Debug\net6.0\Cap9.dll
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap8_Cap9\Cap9\obj\Debug\net6.0\refint\Cap9.dll
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap8_Cap9\Cap9\obj\Debug\net6.0\Cap9.pdb
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap8_Cap9\Cap9\obj\Debug\net6.0\Cap9.genruntimeconfig.cache
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap8_Cap9\Cap9\obj\Debug\net6.0\ref\Cap9.dll
